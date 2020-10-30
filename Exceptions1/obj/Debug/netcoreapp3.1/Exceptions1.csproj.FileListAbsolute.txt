@@ -1,0 +1,13 @@
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.exe
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.deps.json
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.runtimeconfig.json
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.dll
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\bin\Debug\netcoreapp3.1\Exceptions1.pdb
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.AssemblyInfo.cs
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.dll
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.pdb
+C:\Users\jhona\source\repos\C Sharp Orientada a Objetos\Exceptions1\Exceptions1\obj\Debug\netcoreapp3.1\Exceptions1.genruntimeconfig.cache
